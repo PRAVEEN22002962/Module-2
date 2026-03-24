@@ -31,6 +31,7 @@ for i in range(1,n+1):
 ```
 ### OUTPUT
 <img width="914" height="595" alt="image" src="https://github.com/user-attachments/assets/41310b67-6fc5-4e49-9986-6dee0758b41b" />
+
 ### RESULT
 ```
 The program display the n natural numbers using for loop.
